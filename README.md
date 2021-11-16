@@ -1,4 +1,4 @@
-# SQL-challenge
+# SQL-Challenge
 **Data Modeling** <br />
 Inspect CSVs and sketch an ERD of the tables. 
 
